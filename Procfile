@@ -1,1 +1,1 @@
-worker: python alexabot.py
+worker: python coin_generator.py
