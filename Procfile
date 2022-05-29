@@ -1,1 +1,1 @@
-worker: python coin_generator.py
+worker: python transfer_new.py
