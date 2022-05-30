@@ -1,1 +1,1 @@
-worker: python transfer_new.py
+worker: python transfernew.py
